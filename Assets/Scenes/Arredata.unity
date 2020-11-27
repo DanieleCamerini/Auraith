@@ -190,10 +190,22 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[1]
       value: 
       objectReference: {fileID: 2100000, guid: 2fe6d16e82571254194ef088d778a49a, type: 2}
+    - target: {fileID: -7511558181221131132, guid: 817dccc5597d57542ac409dec28e27f0, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 19c3c6d51290b4e44afd477d593237b0, type: 2}
+    - target: {fileID: -5671228706494971212, guid: 817dccc5597d57542ac409dec28e27f0, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 19c3c6d51290b4e44afd477d593237b0, type: 2}
     - target: {fileID: 919132149155446097, guid: 817dccc5597d57542ac409dec28e27f0, type: 3}
       propertyPath: m_Name
       value: wallWindowSlide (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6667768547754440613, guid: 817dccc5597d57542ac409dec28e27f0, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 19c3c6d51290b4e44afd477d593237b0, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 817dccc5597d57542ac409dec28e27f0, type: 3}
 --- !u!4 &1301812 stripped
@@ -264,6 +276,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 15b52a4938afbd148b216b42142c5190, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: dc8c32100b2a540949d96c5f05accbcc, type: 2}
     - target: {fileID: 919132149155446097, guid: 15b52a4938afbd148b216b42142c5190, type: 3}
       propertyPath: m_Name
       value: books (8)
@@ -412,6 +428,14 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: b966dc2c4f6e019419a62cd5f20f8b64, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 719155b1e771c4706a9b38cb8c11dae1, type: 2}
+    - target: {fileID: -6956395885858268048, guid: b966dc2c4f6e019419a62cd5f20f8b64, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: c3b985793762f415f9f84eff7e8e566b, type: 2}
     - target: {fileID: 919132149155446097, guid: b966dc2c4f6e019419a62cd5f20f8b64, type: 3}
       propertyPath: m_Name
       value: desk
@@ -595,6 +619,14 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dec8f0dbd45f95445b232d19eb87a38c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 719155b1e771c4706a9b38cb8c11dae1, type: 2}
+    - target: {fileID: -6956395885858268048, guid: dec8f0dbd45f95445b232d19eb87a38c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: c3b985793762f415f9f84eff7e8e566b, type: 2}
     - target: {fileID: 919132149155446097, guid: dec8f0dbd45f95445b232d19eb87a38c, type: 3}
       propertyPath: m_Name
       value: deskCorner
@@ -856,6 +888,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 15b52a4938afbd148b216b42142c5190, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 997c1134e517744edb02084cecb941be, type: 2}
     - target: {fileID: 919132149155446097, guid: 15b52a4938afbd148b216b42142c5190, type: 3}
       propertyPath: m_Name
       value: books (4)
@@ -930,6 +966,18 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 4.3008003
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 272d3092dc648704e8fcd919a7d52363, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: c3b985793762f415f9f84eff7e8e566b, type: 2}
+    - target: {fileID: -3057147933212194604, guid: 272d3092dc648704e8fcd919a7d52363, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ca3bbe06741484ca4ab1857bb14462ef, type: 2}
+    - target: {fileID: -267388480630076389, guid: 272d3092dc648704e8fcd919a7d52363, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: ca3bbe06741484ca4ab1857bb14462ef, type: 2}
     - target: {fileID: 919132149155446097, guid: 272d3092dc648704e8fcd919a7d52363, type: 3}
       propertyPath: m_Name
       value: bookcaseClosedDoors (1)
@@ -1004,6 +1052,14 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 20
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: b7abd68a3df03154ba008d654e6f7075, type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: 395a2849bc3c54989bde9a51206332a7, type: 2}
+    - target: {fileID: -7511558181221131132, guid: b7abd68a3df03154ba008d654e6f7075, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 61d5bffcf1ed74de282124b2bb6f71fc, type: 2}
     - target: {fileID: 919132149155446097, guid: b7abd68a3df03154ba008d654e6f7075, type: 3}
       propertyPath: m_Name
       value: lightsMulti (1)
@@ -1078,6 +1134,14 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 20
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: b7abd68a3df03154ba008d654e6f7075, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 61d5bffcf1ed74de282124b2bb6f71fc, type: 2}
+    - target: {fileID: -7511558181221131132, guid: b7abd68a3df03154ba008d654e6f7075, type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3610577e925324952ae32d6e702b4731, type: 2}
     - target: {fileID: 919132149155446097, guid: b7abd68a3df03154ba008d654e6f7075, type: 3}
       propertyPath: m_Name
       value: lightsMulti (3)
@@ -1156,6 +1220,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: lampSquareTable
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4a6b45498964aa94f96896f3154eda68, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4a6b45498964aa94f96896f3154eda68, type: 3}
 --- !u!4 &144118770 stripped
@@ -1226,6 +1294,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 15b52a4938afbd148b216b42142c5190, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: dc8c32100b2a540949d96c5f05accbcc, type: 2}
     - target: {fileID: 919132149155446097, guid: 15b52a4938afbd148b216b42142c5190, type: 3}
       propertyPath: m_Name
       value: books (1)
@@ -1374,6 +1446,26 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 3.5
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: c3b985793762f415f9f84eff7e8e566b, type: 2}
+    - target: {fileID: -3057147933212194604, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: c3b985793762f415f9f84eff7e8e566b, type: 2}
+    - target: {fileID: -3057147933212194604, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ca3bbe06741484ca4ab1857bb14462ef, type: 2}
+    - target: {fileID: -267388480630076389, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: c3b985793762f415f9f84eff7e8e566b, type: 2}
+    - target: {fileID: -267388480630076389, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: ca3bbe06741484ca4ab1857bb14462ef, type: 2}
     - target: {fileID: 919132149155446097, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
       propertyPath: m_Name
       value: kitchenCabinetUpperDouble (5)
@@ -1670,6 +1762,14 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 20
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: b7abd68a3df03154ba008d654e6f7075, type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: 960d11571dcf8427e9b14ac89c12e0ec, type: 2}
+    - target: {fileID: -7511558181221131132, guid: b7abd68a3df03154ba008d654e6f7075, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3610577e925324952ae32d6e702b4731, type: 2}
     - target: {fileID: 919132149155446097, guid: b7abd68a3df03154ba008d654e6f7075, type: 3}
       propertyPath: m_Name
       value: lightsMulti (1)
@@ -1851,6 +1951,26 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 719155b1e771c4706a9b38cb8c11dae1, type: 2}
+    - target: {fileID: -3057147933212194604, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: c3b985793762f415f9f84eff7e8e566b, type: 2}
+    - target: {fileID: -3057147933212194604, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ca3bbe06741484ca4ab1857bb14462ef, type: 2}
+    - target: {fileID: -267388480630076389, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: c3b985793762f415f9f84eff7e8e566b, type: 2}
+    - target: {fileID: -267388480630076389, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: ca3bbe06741484ca4ab1857bb14462ef, type: 2}
     - target: {fileID: 919132149155446097, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
       propertyPath: m_Name
       value: kitchenCabinetUpperDouble (6)
@@ -2221,6 +2341,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.0228566
       objectReference: {fileID: 0}
+    - target: {fileID: -5836552744715497169, guid: 7ad7f597a977a6e43af303f85b6adddc, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a9a054035b1fc48f2b90763df51b9bd4, type: 2}
     - target: {fileID: 919132149155446097, guid: 7ad7f597a977a6e43af303f85b6adddc, type: 3}
       propertyPath: m_Name
       value: chairDesk
@@ -2295,6 +2419,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 15b52a4938afbd148b216b42142c5190, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: dc8c32100b2a540949d96c5f05accbcc, type: 2}
     - target: {fileID: 919132149155446097, guid: 15b52a4938afbd148b216b42142c5190, type: 3}
       propertyPath: m_Name
       value: books (6)
@@ -2338,6 +2466,7 @@ Transform:
   - {fileID: 1279576035}
   - {fileID: 1288653201}
   - {fileID: 1637832107}
+  - {fileID: 1337329529}
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -2556,6 +2685,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 3.6635509
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1855a3b900f34714c88aa3578c332b47, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ca3bbe06741484ca4ab1857bb14462ef, type: 2}
     - target: {fileID: 919132149155446097, guid: 1855a3b900f34714c88aa3578c332b47, type: 3}
       propertyPath: m_Name
       value: bookcaseClosed (1)
@@ -2630,6 +2763,14 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 3.5
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 4986154c5342d0d49908e8b01228b24c, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: dc8c32100b2a540949d96c5f05accbcc, type: 2}
+    - target: {fileID: -7511558181221131132, guid: 4986154c5342d0d49908e8b01228b24c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 719155b1e771c4706a9b38cb8c11dae1, type: 2}
     - target: {fileID: 919132149155446097, guid: 4986154c5342d0d49908e8b01228b24c, type: 3}
       propertyPath: m_Name
       value: tableCloth
@@ -2704,6 +2845,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 4.8791633
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 46eacdaf290ce5742a73ed879549da03, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: c3b985793762f415f9f84eff7e8e566b, type: 2}
     - target: {fileID: 919132149155446097, guid: 46eacdaf290ce5742a73ed879549da03, type: 3}
       propertyPath: m_Name
       value: bookcaseOpen
@@ -2778,6 +2923,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ee79c82ef9051564a97d39bad855fc69, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a9a054035b1fc48f2b90763df51b9bd4, type: 2}
     - target: {fileID: 919132149155446097, guid: ee79c82ef9051564a97d39bad855fc69, type: 3}
       propertyPath: m_Name
       value: pillowLong
@@ -3431,6 +3580,18 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 4.3008003
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 272d3092dc648704e8fcd919a7d52363, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ca3bbe06741484ca4ab1857bb14462ef, type: 2}
+    - target: {fileID: -3057147933212194604, guid: 272d3092dc648704e8fcd919a7d52363, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ca3bbe06741484ca4ab1857bb14462ef, type: 2}
+    - target: {fileID: -267388480630076389, guid: 272d3092dc648704e8fcd919a7d52363, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: ca3bbe06741484ca4ab1857bb14462ef, type: 2}
     - target: {fileID: 919132149155446097, guid: 272d3092dc648704e8fcd919a7d52363, type: 3}
       propertyPath: m_Name
       value: bookcaseClosedDoors
@@ -3505,6 +3666,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 3.5
       objectReference: {fileID: 0}
+    - target: {fileID: -4153014384403274924, guid: 64a3c0792618d944ab610b76afb3f5d8, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a9a054035b1fc48f2b90763df51b9bd4, type: 2}
     - target: {fileID: 919132149155446097, guid: 64a3c0792618d944ab610b76afb3f5d8, type: 3}
       propertyPath: m_Name
       value: bedSingle
@@ -3579,6 +3744,14 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 20
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: b7abd68a3df03154ba008d654e6f7075, type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: 960d11571dcf8427e9b14ac89c12e0ec, type: 2}
+    - target: {fileID: -7511558181221131132, guid: b7abd68a3df03154ba008d654e6f7075, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3610577e925324952ae32d6e702b4731, type: 2}
     - target: {fileID: 919132149155446097, guid: b7abd68a3df03154ba008d654e6f7075, type: 3}
       propertyPath: m_Name
       value: lightsMulti (3)
@@ -4016,6 +4189,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 15b52a4938afbd148b216b42142c5190, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: dc8c32100b2a540949d96c5f05accbcc, type: 2}
     - target: {fileID: 919132149155446097, guid: 15b52a4938afbd148b216b42142c5190, type: 3}
       propertyPath: m_Name
       value: books
@@ -4105,6 +4282,112 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: c686d8057d3ce4f43aecf445ba74599c, type: 3}
   m_PrefabInstance: {fileID: 604355676}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &616607885
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 616607886}
+  - component: {fileID: 616607888}
+  - component: {fileID: 616607887}
+  m_Layer: 0
+  m_Name: Spot Light (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &616607886
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 616607885}
+  m_LocalRotation: {x: 3.1401849e-16, y: 0.7071068, z: -0.7071068, w: -3.1401849e-16}
+  m_LocalPosition: {x: 0.7053944, y: 2.7635372, z: 0.50536764}
+  m_LocalScale: {x: 0.21327406, y: 0.21327415, z: 0.21327418}
+  m_Children: []
+  m_Father: {fileID: 144118770}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
+--- !u!114 &616607887
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 616607885}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_UsePipelineSettings: 1
+--- !u!108 &616607888
+Light:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 616607885}
+  m_Enabled: 1
+  serializedVersion: 10
+  m_Type: 2
+  m_Shape: 0
+  m_Color: {r: 0.24191143, g: 0.9254902, b: 0, a: 1}
+  m_Intensity: 51.1
+  m_Range: 50.83
+  m_SpotAngle: 54.044777
+  m_InnerSpotAngle: 45.846855
+  m_CookieSize: 10
+  m_Shadows:
+    m_Type: 2
+    m_Resolution: -1
+    m_CustomResolution: -1
+    m_Strength: 0.394
+    m_Bias: 1
+    m_NormalBias: 1
+    m_NearPlane: 3.23
+    m_CullingMatrixOverride:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    m_UseCullingMatrixOverride: 0
+  m_Cookie: {fileID: 0}
+  m_DrawHalo: 0
+  m_Flare: {fileID: 0}
+  m_RenderMode: 0
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RenderingLayerMask: 1
+  m_Lightmapping: 1
+  m_LightShadowCasterMode: 0
+  m_AreaSize: {x: 1, y: 1}
+  m_BounceIntensity: 1
+  m_ColorTemperature: 6570
+  m_UseColorTemperature: 0
+  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
+  m_UseBoundingSphereOverride: 0
+  m_ShadowRadius: 0
+  m_ShadowAngle: 0
 --- !u!1 &626912597
 GameObject:
   m_ObjectHideFlags: 0
@@ -5025,6 +5308,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 3.4896998
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1855a3b900f34714c88aa3578c332b47, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 84ae6dc5bc8f44d6a8f4ea9361480c40, type: 2}
     - target: {fileID: 919132149155446097, guid: 1855a3b900f34714c88aa3578c332b47, type: 3}
       propertyPath: m_Name
       value: bookcaseClosed
@@ -5739,6 +6026,14 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 15b52a4938afbd148b216b42142c5190, type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: dc8c32100b2a540949d96c5f05accbcc, type: 2}
+    - target: {fileID: -7511558181221131132, guid: 15b52a4938afbd148b216b42142c5190, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 997c1134e517744edb02084cecb941be, type: 2}
     - target: {fileID: 919132149155446097, guid: 15b52a4938afbd148b216b42142c5190, type: 3}
       propertyPath: m_Name
       value: books (7)
@@ -6227,6 +6522,26 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 719155b1e771c4706a9b38cb8c11dae1, type: 2}
+    - target: {fileID: -3057147933212194604, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: c3b985793762f415f9f84eff7e8e566b, type: 2}
+    - target: {fileID: -3057147933212194604, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ca3bbe06741484ca4ab1857bb14462ef, type: 2}
+    - target: {fileID: -267388480630076389, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: c3b985793762f415f9f84eff7e8e566b, type: 2}
+    - target: {fileID: -267388480630076389, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: ca3bbe06741484ca4ab1857bb14462ef, type: 2}
     - target: {fileID: 919132149155446097, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
       propertyPath: m_Name
       value: kitchenCabinetUpperDouble (7)
@@ -6267,7 +6582,7 @@ Light:
   m_Type: 1
   m_Shape: 0
   m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
-  m_Intensity: 0.5
+  m_Intensity: 0.23
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -6682,6 +6997,26 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a9a054035b1fc48f2b90763df51b9bd4, type: 2}
+    - target: {fileID: -3057147933212194604, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: a9a054035b1fc48f2b90763df51b9bd4, type: 2}
+    - target: {fileID: -3057147933212194604, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a9a054035b1fc48f2b90763df51b9bd4, type: 2}
+    - target: {fileID: -267388480630076389, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a9a054035b1fc48f2b90763df51b9bd4, type: 2}
+    - target: {fileID: -267388480630076389, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: a9a054035b1fc48f2b90763df51b9bd4, type: 2}
     - target: {fileID: 919132149155446097, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
       propertyPath: m_Name
       value: kitchenCabinetUpperDouble (1)
@@ -6866,6 +7201,26 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a9a054035b1fc48f2b90763df51b9bd4, type: 2}
+    - target: {fileID: -3057147933212194604, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: a9a054035b1fc48f2b90763df51b9bd4, type: 2}
+    - target: {fileID: -3057147933212194604, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a9a054035b1fc48f2b90763df51b9bd4, type: 2}
+    - target: {fileID: -267388480630076389, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a9a054035b1fc48f2b90763df51b9bd4, type: 2}
+    - target: {fileID: -267388480630076389, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: a9a054035b1fc48f2b90763df51b9bd4, type: 2}
     - target: {fileID: 919132149155446097, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
       propertyPath: m_Name
       value: kitchenCabinetUpperDouble (3)
@@ -7014,6 +7369,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: fa024aae1e3a9a2459d17bf53b66b940, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a9a054035b1fc48f2b90763df51b9bd4, type: 2}
     - target: {fileID: 919132149155446097, guid: fa024aae1e3a9a2459d17bf53b66b940, type: 3}
       propertyPath: m_Name
       value: loungeSofa
@@ -7088,6 +7447,26 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a9a054035b1fc48f2b90763df51b9bd4, type: 2}
+    - target: {fileID: -3057147933212194604, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: a9a054035b1fc48f2b90763df51b9bd4, type: 2}
+    - target: {fileID: -3057147933212194604, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a9a054035b1fc48f2b90763df51b9bd4, type: 2}
+    - target: {fileID: -267388480630076389, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a9a054035b1fc48f2b90763df51b9bd4, type: 2}
+    - target: {fileID: -267388480630076389, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: a9a054035b1fc48f2b90763df51b9bd4, type: 2}
     - target: {fileID: 919132149155446097, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
       propertyPath: m_Name
       value: kitchenCabinetUpperDouble (2)
@@ -7196,6 +7575,14 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 20
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: b7abd68a3df03154ba008d654e6f7075, type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: 61d5bffcf1ed74de282124b2bb6f71fc, type: 2}
+    - target: {fileID: -7511558181221131132, guid: b7abd68a3df03154ba008d654e6f7075, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 395a2849bc3c54989bde9a51206332a7, type: 2}
     - target: {fileID: 919132149155446097, guid: b7abd68a3df03154ba008d654e6f7075, type: 3}
       propertyPath: m_Name
       value: lightsMulti (2)
@@ -7270,6 +7657,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 29549067a270a194c94505ea2e7f7d45, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ca3bbe06741484ca4ab1857bb14462ef, type: 2}
     - target: {fileID: 919132149155446097, guid: 29549067a270a194c94505ea2e7f7d45, type: 3}
       propertyPath: m_Name
       value: kitchenCabinetUpperCorner
@@ -7378,7 +7769,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1281547582}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0.7071068, w: 0}
-  m_LocalPosition: {x: 0.645, y: 2.633, z: 0.599}
+  m_LocalPosition: {x: 0.64, y: 2.61, z: 0.66}
   m_LocalScale: {x: 0.2634379, y: 0.26343796, z: 0.26343796}
   m_Children: []
   m_Father: {fileID: 913210521}
@@ -7554,6 +7945,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 20
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 30ca2b3882867ff46bdbc7ebca5e89fc, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ca11a482039b44a4bbe82545f68e2546, type: 2}
     - target: {fileID: 919132149155446097, guid: 30ca2b3882867ff46bdbc7ebca5e89fc, type: 3}
       propertyPath: m_Name
       value: cabinCorner (1)
@@ -7628,6 +8023,26 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a9a054035b1fc48f2b90763df51b9bd4, type: 2}
+    - target: {fileID: -3057147933212194604, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: a9a054035b1fc48f2b90763df51b9bd4, type: 2}
+    - target: {fileID: -3057147933212194604, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a9a054035b1fc48f2b90763df51b9bd4, type: 2}
+    - target: {fileID: -267388480630076389, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a9a054035b1fc48f2b90763df51b9bd4, type: 2}
+    - target: {fileID: -267388480630076389, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: a9a054035b1fc48f2b90763df51b9bd4, type: 2}
     - target: {fileID: 919132149155446097, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
       propertyPath: m_Name
       value: kitchenCabinetUpperDouble
@@ -7639,6 +8054,112 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
   m_PrefabInstance: {fileID: 1301178596}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1307769655
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1307769656}
+  - component: {fileID: 1307769658}
+  - component: {fileID: 1307769657}
+  m_Layer: 0
+  m_Name: Spot Light
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1307769656
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1307769655}
+  m_LocalRotation: {x: -0, y: 0.7071068, z: -0.7071068, w: 0}
+  m_LocalPosition: {x: 0.64000034, y: 2.6099997, z: 0.6599977}
+  m_LocalScale: {x: 0.26343793, y: 0.26343793, z: 0.263438}
+  m_Children: []
+  m_Father: {fileID: 1337329529}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
+--- !u!114 &1307769657
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1307769655}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_UsePipelineSettings: 1
+--- !u!108 &1307769658
+Light:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1307769655}
+  m_Enabled: 1
+  serializedVersion: 10
+  m_Type: 2
+  m_Shape: 0
+  m_Color: {r: 0.82478654, g: 0, b: 0.9245283, a: 1}
+  m_Intensity: 35.08
+  m_Range: 43.6
+  m_SpotAngle: 54.044777
+  m_InnerSpotAngle: 45.846855
+  m_CookieSize: 10
+  m_Shadows:
+    m_Type: 2
+    m_Resolution: -1
+    m_CustomResolution: -1
+    m_Strength: 0.394
+    m_Bias: 1
+    m_NormalBias: 1
+    m_NearPlane: 3.23
+    m_CullingMatrixOverride:
+      e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+    m_UseCullingMatrixOverride: 0
+  m_Cookie: {fileID: 0}
+  m_DrawHalo: 0
+  m_Flare: {fileID: 0}
+  m_RenderMode: 0
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RenderingLayerMask: 1
+  m_Lightmapping: 1
+  m_LightShadowCasterMode: 0
+  m_AreaSize: {x: 1, y: 1}
+  m_BounceIntensity: 1
+  m_ColorTemperature: 6570
+  m_UseColorTemperature: 0
+  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
+  m_UseBoundingSphereOverride: 0
+  m_ShadowRadius: 0
+  m_ShadowAngle: 0
 --- !u!1001 &1321844903
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7906,7 +8427,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3300ce47afe2042e4a4cb7cc3089646c, type: 3}
       propertyPath: m_RootOrder
-      value: 6
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3300ce47afe2042e4a4cb7cc3089646c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -7942,6 +8463,80 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 3300ce47afe2042e4a4cb7cc3089646c, type: 3}
   m_PrefabInstance: {fileID: 1331654481}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1337329528
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 275148977}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 6ba958aed9203894e920c3a87dac8005, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -9.13226
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 6ba958aed9203894e920c3a87dac8005, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.3379166
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 6ba958aed9203894e920c3a87dac8005, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.84714395
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 6ba958aed9203894e920c3a87dac8005, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 6ba958aed9203894e920c3a87dac8005, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 6ba958aed9203894e920c3a87dac8005, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -4.4408916e-16
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 6ba958aed9203894e920c3a87dac8005, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 6ba958aed9203894e920c3a87dac8005, type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 6ba958aed9203894e920c3a87dac8005, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 6ba958aed9203894e920c3a87dac8005, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 6ba958aed9203894e920c3a87dac8005, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 6ba958aed9203894e920c3a87dac8005, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5422798
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 6ba958aed9203894e920c3a87dac8005, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5422801
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 6ba958aed9203894e920c3a87dac8005, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.54228
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6ba958aed9203894e920c3a87dac8005, type: 3}
+      propertyPath: m_Name
+      value: lampRoundTable (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6ba958aed9203894e920c3a87dac8005, type: 3}
+--- !u!4 &1337329529 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 6ba958aed9203894e920c3a87dac8005, type: 3}
+  m_PrefabInstance: {fileID: 1337329528}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &1339109022
 GameObject:
@@ -8150,10 +8745,22 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f241a81e6d5da5741b4565784a89519c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 719155b1e771c4706a9b38cb8c11dae1, type: 2}
     - target: {fileID: 919132149155446097, guid: f241a81e6d5da5741b4565784a89519c, type: 3}
       propertyPath: m_Name
       value: kitchenCabinetUpperLow (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 9077926073120308842, guid: f241a81e6d5da5741b4565784a89519c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: c3b985793762f415f9f84eff7e8e566b, type: 2}
+    - target: {fileID: 9077926073120308842, guid: f241a81e6d5da5741b4565784a89519c, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: ca3bbe06741484ca4ab1857bb14462ef, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f241a81e6d5da5741b4565784a89519c, type: 3}
 --- !u!4 &1367158348 stripped
@@ -8662,10 +9269,22 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 3.5
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f241a81e6d5da5741b4565784a89519c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: c3b985793762f415f9f84eff7e8e566b, type: 2}
     - target: {fileID: 919132149155446097, guid: f241a81e6d5da5741b4565784a89519c, type: 3}
       propertyPath: m_Name
       value: kitchenCabinetUpperLow
       objectReference: {fileID: 0}
+    - target: {fileID: 9077926073120308842, guid: f241a81e6d5da5741b4565784a89519c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: c3b985793762f415f9f84eff7e8e566b, type: 2}
+    - target: {fileID: 9077926073120308842, guid: f241a81e6d5da5741b4565784a89519c, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: ca3bbe06741484ca4ab1857bb14462ef, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f241a81e6d5da5741b4565784a89519c, type: 3}
 --- !u!4 &1520376096 stripped
@@ -8736,6 +9355,14 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 20
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: b7abd68a3df03154ba008d654e6f7075, type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8c636a0681f0d48d8b44867d5d3edd6b, type: 2}
+    - target: {fileID: -7511558181221131132, guid: b7abd68a3df03154ba008d654e6f7075, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3610577e925324952ae32d6e702b4731, type: 2}
     - target: {fileID: 919132149155446097, guid: b7abd68a3df03154ba008d654e6f7075, type: 3}
       propertyPath: m_Name
       value: lightsMulti (3)
@@ -8884,6 +9511,14 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 15b52a4938afbd148b216b42142c5190, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ca3bbe06741484ca4ab1857bb14462ef, type: 2}
+    - target: {fileID: -7511558181221131132, guid: 15b52a4938afbd148b216b42142c5190, type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: 997c1134e517744edb02084cecb941be, type: 2}
     - target: {fileID: 919132149155446097, guid: 15b52a4938afbd148b216b42142c5190, type: 3}
       propertyPath: m_Name
       value: books (10)
@@ -8958,10 +9593,22 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: f241a81e6d5da5741b4565784a89519c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 719155b1e771c4706a9b38cb8c11dae1, type: 2}
     - target: {fileID: 919132149155446097, guid: f241a81e6d5da5741b4565784a89519c, type: 3}
       propertyPath: m_Name
       value: kitchenCabinetUpperLow (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 9077926073120308842, guid: f241a81e6d5da5741b4565784a89519c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: c3b985793762f415f9f84eff7e8e566b, type: 2}
+    - target: {fileID: 9077926073120308842, guid: f241a81e6d5da5741b4565784a89519c, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: ca3bbe06741484ca4ab1857bb14462ef, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f241a81e6d5da5741b4565784a89519c, type: 3}
 --- !u!4 &1556184584 stripped
@@ -9068,6 +9715,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 1caa9d24ef499144bb677e31061716ec, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: a9a054035b1fc48f2b90763df51b9bd4, type: 2}
     - target: {fileID: 919132149155446097, guid: 1caa9d24ef499144bb677e31061716ec, type: 3}
       propertyPath: m_Name
       value: loungeSofaOttoman
@@ -9250,6 +9901,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 3.5000014
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 89f68669ae65d6b47932e6b0c420cb33, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: dc8c32100b2a540949d96c5f05accbcc, type: 2}
     - target: {fileID: 919132149155446097, guid: 89f68669ae65d6b47932e6b0c420cb33, type: 3}
       propertyPath: m_Name
       value: LoungeChair
@@ -9298,7 +9953,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 817dccc5597d57542ac409dec28e27f0, type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 817dccc5597d57542ac409dec28e27f0, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -9328,10 +9983,22 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[1]
       value: 
       objectReference: {fileID: 2100000, guid: 2fe6d16e82571254194ef088d778a49a, type: 2}
+    - target: {fileID: -7511558181221131132, guid: 817dccc5597d57542ac409dec28e27f0, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 19c3c6d51290b4e44afd477d593237b0, type: 2}
+    - target: {fileID: -5671228706494971212, guid: 817dccc5597d57542ac409dec28e27f0, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 19c3c6d51290b4e44afd477d593237b0, type: 2}
     - target: {fileID: 919132149155446097, guid: 817dccc5597d57542ac409dec28e27f0, type: 3}
       propertyPath: m_Name
       value: wallWindowSlide
       objectReference: {fileID: 0}
+    - target: {fileID: 6667768547754440613, guid: 817dccc5597d57542ac409dec28e27f0, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 19c3c6d51290b4e44afd477d593237b0, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 817dccc5597d57542ac409dec28e27f0, type: 3}
 --- !u!4 &1636863528 stripped
@@ -9439,6 +10106,14 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 3.5
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: dfb8ac66c8816dc4b85a53c37cd3f306, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: dc8c32100b2a540949d96c5f05accbcc, type: 2}
+    - target: {fileID: -7511558181221131132, guid: dfb8ac66c8816dc4b85a53c37cd3f306, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 719155b1e771c4706a9b38cb8c11dae1, type: 2}
     - target: {fileID: 919132149155446097, guid: dfb8ac66c8816dc4b85a53c37cd3f306, type: 3}
       propertyPath: m_Name
       value: chairCushion
@@ -9739,6 +10414,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 20
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 30ca2b3882867ff46bdbc7ebca5e89fc, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ca11a482039b44a4bbe82545f68e2546, type: 2}
     - target: {fileID: 919132149155446097, guid: 30ca2b3882867ff46bdbc7ebca5e89fc, type: 3}
       propertyPath: m_Name
       value: cabinCorner
@@ -9887,6 +10566,14 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 20
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: b7abd68a3df03154ba008d654e6f7075, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 960d11571dcf8427e9b14ac89c12e0ec, type: 2}
+    - target: {fileID: -7511558181221131132, guid: b7abd68a3df03154ba008d654e6f7075, type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3610577e925324952ae32d6e702b4731, type: 2}
     - target: {fileID: 919132149155446097, guid: b7abd68a3df03154ba008d654e6f7075, type: 3}
       propertyPath: m_Name
       value: lightsMulti (2)
@@ -10363,6 +11050,18 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 3.5
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 35fef76f5a3576742a5c5f2cb31bfd12, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: c3b985793762f415f9f84eff7e8e566b, type: 2}
+    - target: {fileID: -3057147933212194604, guid: 35fef76f5a3576742a5c5f2cb31bfd12, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ca3bbe06741484ca4ab1857bb14462ef, type: 2}
+    - target: {fileID: -267388480630076389, guid: 35fef76f5a3576742a5c5f2cb31bfd12, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: ca3bbe06741484ca4ab1857bb14462ef, type: 2}
     - target: {fileID: 919132149155446097, guid: 35fef76f5a3576742a5c5f2cb31bfd12, type: 3}
       propertyPath: m_Name
       value: cabinetTelevisionDoors
@@ -10585,6 +11284,14 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 15b52a4938afbd148b216b42142c5190, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 997c1134e517744edb02084cecb941be, type: 2}
+    - target: {fileID: -7511558181221131132, guid: 15b52a4938afbd148b216b42142c5190, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 997c1134e517744edb02084cecb941be, type: 2}
     - target: {fileID: 919132149155446097, guid: 15b52a4938afbd148b216b42142c5190, type: 3}
       propertyPath: m_Name
       value: books (9)
@@ -10659,6 +11366,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ee79c82ef9051564a97d39bad855fc69, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a9a054035b1fc48f2b90763df51b9bd4, type: 2}
     - target: {fileID: 919132149155446097, guid: ee79c82ef9051564a97d39bad855fc69, type: 3}
       propertyPath: m_Name
       value: pillowLong (2)
@@ -10768,6 +11479,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: be50582d5e54bfc449386b7190658c72, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a9a054035b1fc48f2b90763df51b9bd4, type: 2}
     - target: {fileID: 919132149155446097, guid: be50582d5e54bfc449386b7190658c72, type: 3}
       propertyPath: m_Name
       value: loungeSofaCorner
@@ -10906,6 +11621,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ee79c82ef9051564a97d39bad855fc69, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a9a054035b1fc48f2b90763df51b9bd4, type: 2}
     - target: {fileID: 919132149155446097, guid: ee79c82ef9051564a97d39bad855fc69, type: 3}
       propertyPath: m_Name
       value: pillowLong (1)
@@ -11210,10 +11929,18 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.0857142
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 60db56289f14f38478e39a206752ae27, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 84ae6dc5bc8f44d6a8f4ea9361480c40, type: 2}
     - target: {fileID: 919132149155446097, guid: 60db56289f14f38478e39a206752ae27, type: 3}
       propertyPath: m_Name
       value: doorway
       objectReference: {fileID: 0}
+    - target: {fileID: 9077926073120308842, guid: 60db56289f14f38478e39a206752ae27, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 84ae6dc5bc8f44d6a8f4ea9361480c40, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60db56289f14f38478e39a206752ae27, type: 3}
 --- !u!4 &1976808313 stripped
@@ -11284,6 +12011,26 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 719155b1e771c4706a9b38cb8c11dae1, type: 2}
+    - target: {fileID: -3057147933212194604, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: c3b985793762f415f9f84eff7e8e566b, type: 2}
+    - target: {fileID: -3057147933212194604, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ca3bbe06741484ca4ab1857bb14462ef, type: 2}
+    - target: {fileID: -267388480630076389, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: c3b985793762f415f9f84eff7e8e566b, type: 2}
+    - target: {fileID: -267388480630076389, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: ca3bbe06741484ca4ab1857bb14462ef, type: 2}
     - target: {fileID: 919132149155446097, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
       propertyPath: m_Name
       value: kitchenCabinetUpperDouble (8)
@@ -11541,6 +12288,26 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 3.5
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: c3b985793762f415f9f84eff7e8e566b, type: 2}
+    - target: {fileID: -3057147933212194604, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: c3b985793762f415f9f84eff7e8e566b, type: 2}
+    - target: {fileID: -3057147933212194604, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ca3bbe06741484ca4ab1857bb14462ef, type: 2}
+    - target: {fileID: -267388480630076389, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: c3b985793762f415f9f84eff7e8e566b, type: 2}
+    - target: {fileID: -267388480630076389, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: ca3bbe06741484ca4ab1857bb14462ef, type: 2}
     - target: {fileID: 919132149155446097, guid: a20da8f5d87e77f468e126016cb216f3, type: 3}
       propertyPath: m_Name
       value: kitchenCabinetUpperDouble (4)
@@ -11693,6 +12460,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ee79c82ef9051564a97d39bad855fc69, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a9a054035b1fc48f2b90763df51b9bd4, type: 2}
     - target: {fileID: 919132149155446097, guid: ee79c82ef9051564a97d39bad855fc69, type: 3}
       propertyPath: m_Name
       value: pillowLong (3)
@@ -12027,6 +12798,14 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 20
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: b7abd68a3df03154ba008d654e6f7075, type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3610577e925324952ae32d6e702b4731, type: 2}
+    - target: {fileID: -7511558181221131132, guid: b7abd68a3df03154ba008d654e6f7075, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8c636a0681f0d48d8b44867d5d3edd6b, type: 2}
     - target: {fileID: 919132149155446097, guid: b7abd68a3df03154ba008d654e6f7075, type: 3}
       propertyPath: m_Name
       value: lightsMulti (2)
