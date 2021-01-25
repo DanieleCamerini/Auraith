@@ -3,7 +3,11 @@
 #endif
 using System.Collections;
 using System.Collections.Generic;
+
+#if UNITY_EDITOR
 using UnityEditor;
+#endif
+
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -69,6 +73,7 @@ public class ButtonCheck : MonoBehaviour
     }
 }
 
+#if UNITY_EDITOR
 [CustomEditor(typeof(ButtonCheck))]
 public class ButtonCheckEditor : Editor
 {
@@ -96,3 +101,4 @@ public class ButtonCheckEditor : Editor
 
     }
 }
+#endif
