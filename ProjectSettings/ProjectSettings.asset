@@ -127,7 +127,10 @@ PlayerSettings:
     16:9: 1
     Others: 1
   bundleVersion: 0.1
-  preloadedAssets: []
+  preloadedAssets:
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 87cd0ab1ea6f84e6ea8cb86d29c58bdb, type: 2}
+  - {fileID: 9193781889129619525, guid: f5696b6a7e3ad4339a48144f6baeb588, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -590,7 +593,8 @@ PlayerSettings:
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0
   webGLDecompressionFallback: 0
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    1: VRSim_include_in_build
   platformArchitecture: {}
   scriptingBackend:
     Standalone: 0
