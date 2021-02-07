@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Auraith
+  productName: Selene's Monlight
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -129,8 +129,11 @@ PlayerSettings:
   bundleVersion: 0.1
   preloadedAssets:
   - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 2105189320915924313, guid: f17e5504ffdfb4bb4bacbda82ca52cff, type: 2}
   - {fileID: 11400000, guid: 87cd0ab1ea6f84e6ea8cb86d29c58bdb, type: 2}
   - {fileID: 9193781889129619525, guid: f5696b6a7e3ad4339a48144f6baeb588, type: 2}
+  - {fileID: 11400000, guid: acd838eb98d4d4ff2be2e59f3e6bbdca, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -594,7 +597,7 @@ PlayerSettings:
   webGLThreadsSupport: 0
   webGLDecompressionFallback: 0
   scriptingDefineSymbols:
-    1: VRSim_include_in_build
+    1: 
   platformArchitecture: {}
   scriptingBackend:
     Standalone: 0
@@ -608,7 +611,7 @@ PlayerSettings:
   gcIncremental: 1
   gcWBarrierValidation: 0
   apiCompatibilityLevelPerPlatform:
-    Standalone: 3
+    Standalone: 6
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
   metroPackageName: Template_Lightweight
