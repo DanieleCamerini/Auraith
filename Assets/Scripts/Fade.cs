@@ -44,7 +44,7 @@ public class Fade : MonoBehaviour
         {
             fadePanel.color = Color.Lerp(transparent, opaque, myCounter / fadeTime);
 
-            myCounter = Time.deltaTime;
+            myCounter += Time.deltaTime;
 
             yield return null;
 
@@ -60,7 +60,7 @@ public class Fade : MonoBehaviour
         {
             fadePanel.color = Color.Lerp(opaque, transparent, myCounter / fadeTime);
 
-            myCounter = Time.deltaTime;
+            myCounter += Time.deltaTime;
 
             yield return null;
 
