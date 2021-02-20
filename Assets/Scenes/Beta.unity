@@ -37402,6 +37402,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1354198763}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &1149881465
 GameObject:
   m_ObjectHideFlags: 0
@@ -69150,7 +69162,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2437258647512227156, guid: e80108469e95042409b4e50aae88d720, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.094100714
+      value: -0.235
       objectReference: {fileID: 0}
     - target: {fileID: 2437258647512227156, guid: e80108469e95042409b4e50aae88d720, type: 3}
       propertyPath: m_LocalPosition.z
@@ -69174,7 +69186,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2437258647512227156, guid: e80108469e95042409b4e50aae88d720, type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2437258647512227156, guid: e80108469e95042409b4e50aae88d720, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
